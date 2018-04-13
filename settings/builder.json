@@ -27,7 +27,7 @@
   "renderMode": "0",
   "startScene": "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
   "title": "2048",
-  "webOrientation": "auto",
+  "webOrientation": "portrait",
   "wechatgame": {
     "appid": "",
     "orientation": "portrait"

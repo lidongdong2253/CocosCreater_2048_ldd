@@ -1,6 +1,6 @@
 {
   "androidStudio": true,
-  "apiLevel": "android-10",
+  "apiLevel": "android-17",
   "appABIs": [
     "armeabi"
   ],
@@ -11,9 +11,9 @@
   "keystoreAliasPassword": "commonoutbox123456",
   "keystorePassword": "commonoutbox123456",
   "keystorePath": "/Users/lidongdong/Documents/commonoutbox123456.keystore",
-  "platform": "android",
+  "platform": "web-mobile",
   "previewHeight": "720",
-  "previewWidth": "1280",
+  "previewWidth": 1280,
   "sourceMaps": false,
   "template": "default",
   "useDebugKeystore": false,

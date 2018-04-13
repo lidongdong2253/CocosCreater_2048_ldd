@@ -1,58 +1,293 @@
-2018-03-28T08:54:47.292Z - normal: Load ~/.CocosCreator/settings.json
-2018-03-28T08:54:47.294Z - normal: checking language setting...
-2018-03-28T08:54:47.294Z - normal: Language: zh
-2018-03-28T08:54:48.012Z - success: protocol editor-framework registered
-2018-03-28T08:54:48.013Z - success: protocol app registered
-2018-03-28T08:54:48.013Z - success: protocol theme registered
-2018-03-28T08:54:48.013Z - success: protocol packages registered
-2018-03-28T08:54:48.013Z - success: protocol unpack registerred
-2018-03-28T08:54:48.013Z - success: protocol disable-commonjs registerred
-2018-03-28T08:54:48.132Z - normal: connected!
-2018-03-28T08:54:48.134Z - normal: Check project /Users/lidongdong/Documents/CocosCreater/2048_ldd
-2018-03-28T08:54:48.135Z - normal: Initializing Cocos2d
-2018-03-28T08:54:48.383Z - normal: Initializing Asset Database
-2018-03-28T08:54:48.412Z - success: protocol uuid registerred
-2018-03-28T08:54:48.412Z - success: protocol db registerred
-2018-03-28T08:54:48.412Z - success: protocol thumbnail registerred
-2018-03-28T08:54:48.413Z - normal: Loading editor/builtin packages
-2018-03-28T08:54:48.430Z - success: anysdk loaded
-2018-03-28T08:54:48.530Z - success: assets loaded
-2018-03-28T08:54:48.535Z - success: builder loaded
-2018-03-28T08:54:48.536Z - success: cocos-analytics loaded
-2018-03-28T08:54:48.540Z - success: console loaded
-2018-03-28T08:54:48.568Z - success: fb-instant-games loaded
-2018-03-28T08:54:48.571Z - success: hierarchy loaded
-2018-03-28T08:54:48.575Z - success: inspector loaded
-2018-03-28T08:54:48.577Z - success: keystore loaded
-2018-03-28T08:54:48.584Z - success: node-library loaded
-2018-03-28T08:54:48.587Z - success: package-asset loaded
-2018-03-28T08:54:48.591Z - success: preferences loaded
-2018-03-28T08:54:48.594Z - success: project-exporter loaded
-2018-03-28T08:54:48.607Z - success: project-importer loaded
-2018-03-28T08:54:48.610Z - success: project-settings loaded
-2018-03-28T08:54:48.614Z - success: ui-kit loaded
-2018-03-28T08:54:48.618Z - success: ui-grid loaded
-2018-03-28T08:54:48.621Z - success: scene loaded
-2018-03-28T08:54:48.622Z - success: sprite-editor loaded
-2018-03-28T08:54:48.626Z - success: store loaded
-2018-03-28T08:54:48.631Z - success: timeline loaded
-2018-03-28T08:54:48.631Z - normal: Loading builtin packages
-2018-03-28T08:54:48.634Z - success: asset-db-debugger loaded
-2018-03-28T08:54:48.635Z - success: color-picker loaded
-2018-03-28T08:54:48.638Z - success: package-manager loaded
-2018-03-28T08:54:48.642Z - success: sdkbox loaded
-2018-03-28T08:54:48.647Z - success: tester loaded
-2018-03-28T08:54:48.650Z - success: ui-kit-preview-extra loaded
-2018-03-28T08:54:48.653Z - success: ui-kit-preview loaded
-2018-03-28T08:54:48.656Z - success: ui-tree loaded
-2018-03-28T08:54:49.525Z - normal: Initializing project /Users/lidongdong/Documents/CocosCreater/2048_ldd
-2018-03-28T08:54:49.528Z - normal: Loading packages
-2018-03-28T08:54:49.532Z - normal: Watching packages
-2018-03-28T08:54:49.543Z - normal: Run Application
-2018-03-28T08:54:50.010Z - success: preview server running at http://localhost:7457
-2018-03-28T08:54:53.942Z - normal: 1.9.0
-2018-03-28T09:01:45.854Z - success: API data generated and copied to /Users/lidongdong/Documents/CocosCreater/2048_ldd/creator.d.ts
-2018-03-28T09:01:50.951Z - success: VS Code extension installed to /Users/lidongdong/.vscode/extensions
-2018-03-28T09:01:57.934Z - success: Chrome debug setting has been updated to .vscode/launch.json, please install Debugger for Chrome VS Code extension to debug your project.
-2018-03-28T09:02:03.250Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
-2018-03-28T09:49:40.773Z - info: shutdown preview server
+2018-04-13T10:36:30.485Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-13T10:36:30.489Z - normal: checking language setting...
+2018-04-13T10:36:30.489Z - normal: Language: zh
+2018-04-13T10:36:38.298Z - success: protocol editor-framework registered
+2018-04-13T10:36:38.299Z - success: protocol app registered
+2018-04-13T10:36:38.299Z - success: protocol theme registered
+2018-04-13T10:36:38.300Z - success: protocol packages registered
+2018-04-13T10:36:38.300Z - success: protocol unpack registerred
+2018-04-13T10:36:38.300Z - success: protocol disable-commonjs registerred
+2018-04-13T10:36:38.425Z - normal: connected!
+2018-04-13T10:36:38.428Z - normal: Check project /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd
+2018-04-13T10:36:38.453Z - normal: Initializing Cocos2d
+2018-04-13T10:36:39.064Z - normal: Initializing Asset Database
+2018-04-13T10:36:39.221Z - success: protocol uuid registerred
+2018-04-13T10:36:39.221Z - success: protocol db registerred
+2018-04-13T10:36:39.222Z - success: protocol thumbnail registerred
+2018-04-13T10:36:39.222Z - normal: Loading editor/builtin packages
+2018-04-13T10:36:39.376Z - success: anysdk loaded
+2018-04-13T10:36:39.602Z - success: assets loaded
+2018-04-13T10:36:39.606Z - success: builder loaded
+2018-04-13T10:36:39.608Z - success: cocos-analytics loaded
+2018-04-13T10:36:39.638Z - success: console loaded
+2018-04-13T10:36:39.681Z - success: fb-instant-games loaded
+2018-04-13T10:36:39.699Z - success: hierarchy loaded
+2018-04-13T10:36:39.705Z - success: inspector loaded
+2018-04-13T10:36:39.707Z - success: keystore loaded
+2018-04-13T10:36:39.717Z - success: node-library loaded
+2018-04-13T10:36:39.719Z - success: package-asset loaded
+2018-04-13T10:36:39.722Z - success: preferences loaded
+2018-04-13T10:36:39.726Z - success: project-exporter loaded
+2018-04-13T10:36:39.759Z - success: project-importer loaded
+2018-04-13T10:36:39.763Z - success: project-settings loaded
+2018-04-13T10:36:39.780Z - success: ui-kit loaded
+2018-04-13T10:36:39.788Z - success: ui-grid loaded
+2018-04-13T10:36:39.793Z - success: scene loaded
+2018-04-13T10:36:39.794Z - success: sprite-editor loaded
+2018-04-13T10:36:39.799Z - success: store loaded
+2018-04-13T10:36:39.807Z - success: timeline loaded
+2018-04-13T10:36:39.807Z - normal: Loading builtin packages
+2018-04-13T10:36:39.821Z - success: asset-db-debugger loaded
+2018-04-13T10:36:39.822Z - success: color-picker loaded
+2018-04-13T10:36:39.826Z - success: package-manager loaded
+2018-04-13T10:36:39.860Z - success: sdkbox loaded
+2018-04-13T10:36:39.867Z - success: tester loaded
+2018-04-13T10:36:39.871Z - success: ui-kit-preview-extra loaded
+2018-04-13T10:36:39.875Z - success: ui-kit-preview loaded
+2018-04-13T10:36:39.879Z - success: ui-tree loaded
+2018-04-13T10:36:41.768Z - normal: Initializing project /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd
+2018-04-13T10:36:41.791Z - normal: Loading packages
+2018-04-13T10:36:41.818Z - normal: Watching packages
+2018-04-13T10:36:41.846Z - normal: Run Application
+2018-04-13T10:36:51.174Z - success: preview server running at http://localhost:7456
+2018-04-13T10:37:06.013Z - normal: 1.9.0
+2018-04-13T10:41:44.980Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-17",
+  "appABIs": [
+    "armeabi"
+  ],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build",
+  "debug": false,
+  "dest": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "com.outbox.ldd",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": 1280,
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
+    "e27b84c0-354a-4f06-949b-b2825b74f4ab"
+  ],
+  "sourceMaps": false,
+  "startScene": "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
+  "template": "default",
+  "title": "2048",
+  "useDebugKeystore": false,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "b8e62899-6e89-4e",
+  "zipCompressJs": true,
+  "project": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd",
+  "projectName": "2048",
+  "debugBuildWorker": false
+}
+2018-04-13T10:41:44.997Z - normal: Building /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd
+2018-04-13T10:41:44.997Z - normal: Destination /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile
+2018-04-13T10:41:45.748Z - normal: Delete /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile/**/*
+2018-04-13T10:43:01.208Z - normal: Compiled project javascript file successfully
+2018-04-13T10:43:01.267Z - normal: Start building assets
+2018-04-13T10:43:01.268Z - normal: Start spawn build-worker
+2018-04-13T10:43:02.136Z - normal: Finish spawn build-worker
+2018-04-13T10:43:02.137Z - normal: Start init build-worker
+2018-04-13T10:43:06.150Z - normal: 1.9.0
+2018-04-13T10:43:06.327Z - normal: Finish init build-worker
+2018-04-13T10:43:06.328Z - normal: Start build-assets in worker
+2018-04-13T10:43:07.193Z - normal: Finish build-assets in worker
+2018-04-13T10:43:07.207Z - normal: Finish building assets
+2018-04-13T10:43:07.283Z - normal: Start building raw assets
+2018-04-13T10:43:07.286Z - normal: Start building plugin scripts
+2018-04-13T10:43:07.390Z - normal: Finish building raw assets
+2018-04-13T10:43:07.488Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-04-13T10:43:07.515Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-04-13T10:43:07.726Z - normal: Built to "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile" successfully
+2018-04-13T10:44:01.548Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-17",
+  "appABIs": [
+    "armeabi"
+  ],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build",
+  "debug": false,
+  "dest": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "com.outbox.ldd",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": 1280,
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
+    "e27b84c0-354a-4f06-949b-b2825b74f4ab"
+  ],
+  "sourceMaps": false,
+  "startScene": "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
+  "template": "default",
+  "title": "2048",
+  "useDebugKeystore": false,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "b8e62899-6e89-4e",
+  "zipCompressJs": true,
+  "project": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd",
+  "projectName": "2048",
+  "debugBuildWorker": false
+}
+2018-04-13T10:44:01.774Z - normal: Building /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd
+2018-04-13T10:44:01.774Z - normal: Destination /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile
+2018-04-13T10:44:01.776Z - normal: Delete /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile/**/*
+2018-04-13T10:44:08.748Z - normal: Compiled project javascript file successfully
+2018-04-13T10:44:08.749Z - normal: Start building assets
+2018-04-13T10:44:08.749Z - normal: Start spawn build-worker
+2018-04-13T10:44:09.685Z - normal: Finish spawn build-worker
+2018-04-13T10:44:09.685Z - normal: Start init build-worker
+2018-04-13T10:44:14.062Z - normal: 1.9.0
+2018-04-13T10:44:14.293Z - normal: Finish init build-worker
+2018-04-13T10:44:14.293Z - normal: Start build-assets in worker
+2018-04-13T10:44:15.466Z - normal: Finish build-assets in worker
+2018-04-13T10:44:15.482Z - normal: Finish building assets
+2018-04-13T10:44:15.537Z - normal: Start building raw assets
+2018-04-13T10:44:15.538Z - normal: Start building plugin scripts
+2018-04-13T10:44:15.604Z - normal: Finish building raw assets
+2018-04-13T10:44:15.680Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-04-13T10:44:15.694Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-04-13T10:44:15.891Z - normal: Built to "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile" successfully
+2018-04-13T10:48:07.580Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-17",
+  "appABIs": [
+    "armeabi"
+  ],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build",
+  "debug": false,
+  "dest": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "com.outbox.ldd",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": 1280,
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
+    "e27b84c0-354a-4f06-949b-b2825b74f4ab"
+  ],
+  "sourceMaps": false,
+  "startScene": "5abd920d-f9bc-40cc-bad9-5fe7631f5b85",
+  "template": "default",
+  "title": "2048",
+  "useDebugKeystore": false,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "appid": "",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "b8e62899-6e89-4e",
+  "zipCompressJs": true,
+  "project": "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd",
+  "projectName": "2048",
+  "debugBuildWorker": false
+}
+2018-04-13T10:48:07.642Z - normal: Building /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd
+2018-04-13T10:48:07.642Z - normal: Destination /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile
+2018-04-13T10:48:07.644Z - normal: Delete /Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile/**/*
+2018-04-13T10:48:12.000Z - normal: Compiled project javascript file successfully
+2018-04-13T10:48:12.000Z - normal: Start building assets
+2018-04-13T10:48:12.001Z - normal: Start spawn build-worker
+2018-04-13T10:48:12.872Z - normal: Finish spawn build-worker
+2018-04-13T10:48:12.873Z - normal: Start init build-worker
+2018-04-13T10:48:15.146Z - normal: 1.9.0
+2018-04-13T10:48:15.275Z - normal: Finish init build-worker
+2018-04-13T10:48:15.275Z - normal: Start build-assets in worker
+2018-04-13T10:48:15.960Z - normal: Finish build-assets in worker
+2018-04-13T10:48:15.963Z - normal: Finish building assets
+2018-04-13T10:48:16.011Z - normal: Start building raw assets
+2018-04-13T10:48:16.013Z - normal: Start building plugin scripts
+2018-04-13T10:48:16.137Z - normal: Finish building raw assets
+2018-04-13T10:48:16.179Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-04-13T10:48:16.185Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-04-13T10:48:16.354Z - normal: Built to "/Users/wangshengfeiteng/Documents/GitHub/CocosCreater_2048_ldd/build/web-mobile" successfully
