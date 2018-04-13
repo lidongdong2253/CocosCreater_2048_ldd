@@ -11,7 +11,7 @@
   "keystoreAliasPassword": "commonoutbox123456",
   "keystorePassword": "commonoutbox123456",
   "keystorePath": "/Users/lidongdong/Documents/commonoutbox123456.keystore",
-  "platform": "web-desktop",
+  "platform": "web-mobile",
   "previewHeight": 960,
   "previewWidth": 640,
   "sourceMaps": false,

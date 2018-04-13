@@ -113,7 +113,7 @@ window._CCSettings = {
         "b7B55bOA9DFqwt2upbV6+f"
     ],
     "md5AssetsMap": {
-        "03/03ddecce6.json": "73877",
+        "03/03ddecce6.json": "4d5a9",
         "05/05db9ebbc.json": "e5f46",
         "assets/Res/1111.png": "09f7a",
         "assets/Res/2048.png": "0b0b3",
