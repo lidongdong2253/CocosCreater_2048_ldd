@@ -1,0 +1,1 @@
+[{"__type__":"cc.Prefab","_name":"BlokTouch","data":{"__id__":1},"asyncLoadAssets":null},{"__type__":"cc.Node","_name":"BlokTouch","_prefab":{"__type__":"cc.PrefabInfo","root":{"__id__":1},"asset":{"__uuid__":"791fdaq1FAk7JzA3Pqv2yw"},"fileId":"54fhrUpGpFjrm6cq0eaX0W"},"_contentSize":{"__type__":"cc.Size","width":145,"height":145},"_position":{"__type__":"cc.Vec2","y":235}}]

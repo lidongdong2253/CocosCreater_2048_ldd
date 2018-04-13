@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "WechatIMG34",
+    "texture": "4c5f14d8-ae6e-4bd8-bca4-fc85da834ed5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      65,
+      6
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      65,
+      6
+    ]
+  }
+}
