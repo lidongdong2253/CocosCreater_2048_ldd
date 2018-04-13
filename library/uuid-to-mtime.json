@@ -65,8 +65,8 @@
     "relativePath": "Res/default_sprite_splash.png"
   },
   "e27b84c0-354a-4f06-949b-b2825b74f4ab": {
-    "asset": 1522134534000,
-    "meta": 1523615806000,
+    "asset": 1523617773000,
+    "meta": 1523617773000,
     "relativePath": "Scenes/Gamescene.fire"
   },
   "b16a19fe-8904-4c6b-9e33-25ab52ba0242": {
@@ -138,11 +138,6 @@
     "asset": 1522135526000,
     "meta": 1523615805000,
     "relativePath": "Res/2222.png"
-  },
-  "4e714f03-c4d2-40a9-b8c8-2d59d33652a9": {
-    "asset": 1522137059000,
-    "meta": 1523615808000,
-    "relativePath": "Scripts/Scenes/Gamescene.js"
   },
   "71561142-4c83-4933-afca-cb7a17f67053": {
     "asset": 1520938021000,
@@ -338,5 +333,10 @@
     "asset": 1522227735000,
     "meta": 1523615808000,
     "relativePath": "Scripts/Scenes/LoginScene.js"
+  },
+  "4e714f03-c4d2-40a9-b8c8-2d59d33652a9": {
+    "asset": 1523617719000,
+    "meta": 1523617722000,
+    "relativePath": "Scripts/Scenes/Gamescene.js"
   }
 }

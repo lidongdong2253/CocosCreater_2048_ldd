@@ -62,7 +62,7 @@ cc.Class({
         */
         this.bgTouch = cc.instantiate(this.TouchNode)
         this.bgTouch.setContentSize(bgSize,bgSize)
-        this.bgTouch.setPosition(0,-cc.winSize.height*.5 + bgSize*.5 + 100 )
+        this.bgTouch.setPosition(0,-cc.winSize.height*.5 + bgSize*.5 + 10 )
         // this.bgTouch.setColor(cc.color(255,255,255,255))
         this.node.addChild(this.bgTouch)
         for (var s = 0; s < 4; s++) {
